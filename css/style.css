@@ -1,0 +1,17 @@
+/* css start here */
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+.logo h1 {
+  color: cornflowerblue;
+  font-size: 3rem;
+  font-weight: 700;
+  font-style: italic;
+  text-align: center;
+  text-transform: uppercase;
+}

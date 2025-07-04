@@ -26,4 +26,18 @@ body {
   font-weight: 700;
   font-style: italic;
   color: cornflowerblue;
+  cursor: pointer;
+}
+.containar {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 20px;
+  background-color: rgba(250, 235, 215, 0.521);
+  margin: auto 30px;
+  border: 2px solid gray;
+  border-radius: 0 0 10px 10px;
+}
+.nav nav ul li a:hover {
+  text-decoration: underline;
 }

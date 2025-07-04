@@ -57,3 +57,28 @@ body {
 .font {
   color: cornflowerblue;
 }
+.left p {
+  text-align: start;
+  font-size: 20px;
+  font-weight: 600;
+  width: 500px;
+  font-style: italic;
+}
+.left button {
+  padding: 20px 50px;
+  margin: 20px auto;
+  border: 2px dashed cornflowerblue;
+  border-radius: 12px;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.left button:hover {
+  background-color: cornflowerblue;
+  border: 2px solid cornflowerblue;
+  color: white;
+  box-shadow: 2px 2px 10px gray;
+}
+.left {
+  padding-left: 10px;
+}

@@ -53,6 +53,7 @@ body {
   text-transform: capitalize;
   color: black;
   margin: 20px auto;
+  text-align: left;
 }
 .font {
   color: cornflowerblue;
